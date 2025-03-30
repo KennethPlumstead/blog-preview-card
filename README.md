@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog Preview Card Component
 
-This is my solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-component-6l1xNRj1) on Frontend Mentor. The challenge involves creating a responsive blog preview card component that displays a blog post's title, description, and image.
+This is my solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) on Frontend Mentor. The challenge involves creating a responsive blog preview card component that displays a blog post's title, description, and image.
 
 ## Overview
 
